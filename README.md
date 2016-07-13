@@ -15,4 +15,6 @@ Click the pretty icon :)
 
 # Also
 
-Check out the same app for Google Keep, [Desktop Google Keep OSX] (https://github.com/chriskol/Desktop-Google-Keep-OSX)
+Check out the [project page] (https://chriskol.github.io/Google-Docs-Desktop-OSX/) for latest binaries and stuff
+
+Check out the same app for Google Keep, [Desktop Google Keep OSX] (https://github.com/chriskol/Desktop-Google-Keep-OSX) or its [project page] (https://chriskol.github.io/Desktop-Google-Keep-OSX/) for latest binaries.
